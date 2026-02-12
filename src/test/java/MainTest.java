@@ -28,7 +28,7 @@ public class MainTest
 
 
    /**
-     * Tests that at least one test failss
+     * Tests that at least one test failssasduisdi
      */
     @Test
     public void simpleTest() {
