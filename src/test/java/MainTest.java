@@ -33,7 +33,7 @@ public class MainTest
     @Test
     public void simpleTest() {
         int sum = 1+1;
-        assertTrue(sum==712273111);
+        assertTrue(sum==2);
     }
 
     @Test
